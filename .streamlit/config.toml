@@ -1,0 +1,7 @@
+
+# secure-backup-app/.streamlit/config.toml
+[theme]
+base="light"
+
+[server]
+maxUploadSize = 20
